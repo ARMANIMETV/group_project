@@ -10,3 +10,55 @@ body {
     color: #222;
     line-height: 1.6;
 }
+
+header {
+    position: sticky;
+    top: 0;
+    background: rgba(0, 20, 71, 0.85);
+    backdrop-filter: blur(10px);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 8%;
+    z-index: 1000;
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    margin-left: 25px;
+    text-decoration: none;
+    font-weight: 400;
+    transition: 0.3s ease;
+}
+
+nav a:hover {
+    color: #ffcc01;
+}
+
+.signup-btn {
+    background: #ffd014;
+    border: none;
+    padding: 10px 18px;
+    margin-left: 25px;
+    border-radius: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.signup-btn:hover {
+    background: #e5af00;
+    transform: translateY(-2px);
+}
