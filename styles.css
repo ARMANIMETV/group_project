@@ -105,3 +105,26 @@ nav a:hover {
     background: #ffce0b;
     transform: translateY(-3px);
 }
+
+
+
+.marketplace ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    padding: 0;
+}
+
+.marketplace li {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    transition: 0.3s ease;
+}
+
+.marketplace li:hover {
+    transform: scale(1.05);
+}
+
