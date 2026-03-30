@@ -25,6 +25,8 @@
     </header>
 
 
+
+
 <section class="services-section" id="services">
     <h2>Campus Services</h2>
 
@@ -51,10 +53,17 @@
     </div>
 </section>
 
+<section class="marketplace" id="marketplace">
+        <h2>Marketplace Categories</h2>
 
-
-
-
+        <ul>
+            <li>📚 Past Papers & Documents</li>
+            <li>👕 Clothes & Fashion</li>
+            <li>💻 Electronics</li>
+            <li>📱 Phones & Accessories</li>
+            <li>📦 Other Student Goods</li>
+        </ul>
+    </section>
 
 <!-- About Section -->
     <section class="about" id="about">
