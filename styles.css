@@ -62,3 +62,46 @@ nav a:hover {
     background: #e5af00;
     transform: translateY(-2px);
 }
+.hero {
+    background: 
+        linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+        url("test.jpg") no-repeat center center;
+    background-size: cover;
+    min-height: 100vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 20px;
+}
+
+
+.hero h1 {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    opacity: 0.9;
+    margin-bottom: 30px;
+}
+
+.hero button {
+    background: white;
+    color: #001447;
+    border: none;
+    padding: 12px 30px;
+    margin: 10px;
+    border-radius: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.hero button:hover {
+    background: #ffce0b;
+    transform: translateY(-3px);
+}
