@@ -50,3 +50,26 @@
         </div>
     </div>
 </section>
+
+
+
+
+
+
+<!-- About Section -->
+    <section class="about" id="about">
+        <h2>About Cav\En</h2>
+        <p>
+            Cav\En is a secure online marketplace created for students and staff 
+            of Cavendish University Uganda to trade goods and services safely.
+        </p>
+
+        <h3>Problem We Solve</h3>
+        <p>
+            Trading through unofficial social media platforms exposes students 
+            to fraud and security risks. Cav\En provides a trusted campus-only 
+            environment for verified buyers and sellers.
+        </p>
+    </section>
+
+
