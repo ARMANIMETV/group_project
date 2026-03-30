@@ -23,3 +23,30 @@
             <button class="signup-btn">Sign Up</button>
         </nav>
     </header>
+
+
+<section class="services-section" id="services">
+    <h2>Campus Services</h2>
+
+    <div class="services-grid">
+        <div class="service-box">
+            <h3>Software Installation</h3>
+            <p>Windows, Linux, Microsoft Office, Programming tools & more.</p>
+        </div>
+
+        <div class="service-box">
+            <h3>Tutoring</h3>
+            <p>Get help in programming, business, mathematics and more.</p>
+        </div>
+
+        <div class="service-box">
+            <h3>Hair Plaiting & Henna</h3>
+            <p>Campus beauty services by fellow students.</p>
+        </div>
+
+        <div class="service-box">
+            <h3>Food Delivery</h3>
+            <p>Order food from student vendors on campus.</p>
+        </div>
+    </div>
+</section>
