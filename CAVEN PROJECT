@@ -7,9 +7,9 @@
 
     <!-- Google Font -->
     <link href="https://fonts.google.com/specimen/Oswald?categoryFilters=Sans+Serif:%2FSans%2FGrotesque" rel="stylesheet">
-
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <header>
         <div class="logo">Cav\En</div>
@@ -24,14 +24,12 @@
         </nav>
     </header>
 
-<!-- Hero Section -->
     <section class="hero" id="home">
         <h1>Cavendish Campus Marketplace</h1>
         <p>Buy. Sell. Connect. Trade safely within Cavendish University Uganda.</p>
         <button>Join As Seller</button>
         <button>Join As Buyer</button>
     </section>
-
 
 <section class="services-section" id="services">
     <h2>Campus Services</h2>
@@ -71,7 +69,6 @@
         </ul>
     </section>
 
-<!-- About Section -->
     <section class="about" id="about">
         <h2>About Cav\En</h2>
         <p>
@@ -86,5 +83,18 @@
             environment for verified buyers and sellers.
         </p>
     </section>
+
+<section class="contact" id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: group_alpha@caven.ug</p>
+        <p>Location: Plot 1469 Ggaba Road, Kampala, Uganda</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Cav\En - Cavendish Campus Marketplace</p>
+    </footer>
+
+</body>
+</html>
 
 
