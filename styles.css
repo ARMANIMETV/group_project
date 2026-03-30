@@ -163,3 +163,25 @@ nav a:hover {
     transform: scale(1.05);
 }
 
+.about {
+    background: #f0f4ff;
+    text-align: center;
+}
+
+.about p {
+    max-width: 700px;
+    margin: 0 auto 20px;
+}
+
+.contact {
+    background: #001447;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
