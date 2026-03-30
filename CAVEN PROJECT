@@ -24,7 +24,13 @@
         </nav>
     </header>
 
-
+<!-- Hero Section -->
+    <section class="hero" id="home">
+        <h1>Cavendish Campus Marketplace</h1>
+        <p>Buy. Sell. Connect. Trade safely within Cavendish University Uganda.</p>
+        <button>Join As Seller</button>
+        <button>Join As Buyer</button>
+    </section>
 
 
 <section class="services-section" id="services">
